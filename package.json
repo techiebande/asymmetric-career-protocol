@@ -1,0 +1,25 @@
+{
+  "name": "asymmetric-career-protocol",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.18",
+    "lucide-react": "^0.400.0",
+    "next": "^14.2.35",
+    "postcss": "^8.4.35",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "tailwindcss": "^3.4.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.43",
+    "@types/react": "^18.3.31",
+    "@types/react-dom": "^18.3.7",
+    "typescript": "5.5"
+  }
+}
